@@ -11,3 +11,21 @@ https://www.eve-ng.net/index.php/documentation/howtos/
 
 
 or you can go on youtube and see how to upload these images 
+
+
+
+DOWNLOAD
+------------ 
+DYNAMIPS 
+------------ 
+https://mega.nz/folder/rcVVRShQ#duwqJc_T7JXKKkZ8iQa6Yw 
+-------------
+
+
+IOL
+-------------
+https://mega.nz/folder/DQU3lIIa#ubJOieZhyNyguYyFhPf2vQ
+------------ 
+
+QEMU 
+----------- 
