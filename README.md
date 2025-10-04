@@ -12,9 +12,17 @@ https://www.eve-ng.net/index.php/documentation/howtos/
 
 or you can go on youtube and see how to upload these images 
 
+you can download your eve-ng iso on the offical site 
+https://www.eve-ng.net/index.php/download/ 
+
+Vmware Workstation: 
+https://mega.nz/folder/TMdF1CAI#eMrVs40ED5_7X7tO55hrLg
 
 
-DOWNLOAD
+
+
+
+DOWNLOAD IMAGES
 ------------ 
 DYNAMIPS 
 ------------ 
@@ -29,3 +37,5 @@ https://mega.nz/folder/DQU3lIIa#ubJOieZhyNyguYyFhPf2vQ
 
 QEMU 
 ----------- 
+https://mega.nz/folder/XYtmXTbD#2Ey8HySVGm7ieKxWsHSjZg 
+---------
